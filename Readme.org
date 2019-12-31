@@ -1,0 +1,48 @@
+#+TITLE: Drone Assisted Agriculture (DAA)
+
+#+AUTHOR: TC BIE 2019 
+#+CREATOR: winnerbishal9848@gmail.com
+#+DATE: winnerbishal9848@gmail.com
+#+LaTeX_CLASS_OPTIONS: [12pt,a4paper]
+
+
+* Introduction
+  Project drone assisted agriculture (DAA) as its name suggests aims to make use of drone technology and data analysis to improve agriculture.
+** Product
+   At the completion of this project we would have the following:
+   - Equipped Drone
+   - DAA Software 
+
+* Background
+  As we all know, we are the agriculture based country. Agriculture is one of our legacy source of income though it is so primitive and technology has yet so many possibilities to improve the way of doing it. There are many reason for this as one primary reason is the mixed geography of our place. We have plain lands, hills and mountains where getting most out of land is very challenging. Though we have transformed the tools from bullock-carts to hand tractors towards simple to use stuffs, farmers still have challenges in framing like:
+  - harvesting the tree products on time(its all manual and time consuming now)
+  - sampling the crops health status, how productively is the crop growing up(also manual and unknown)
+  - getting holistic vision of land and crops in general
+* Scope
+
+  As future industrial engineers, we want to create a easy to use drone assisted farming in a way farmers could maximize the output from their land. For that, our technology (mix of hardware: drone and software: DAA) would assist in multiple ways like:
+  - monitor the crops on land and on trees
+  - collect the samples from various parts of field:
+    - collect samples: leaves, soil, fruits
+    - collect HD photos
+
+* Specification  
+  As we would be using drones for this project we would need:
+  - solar power source(battery)
+  - cutting and gripping tools
+  - a hd camera
+  - a drone ( a cheap programmable drone)
+  - sensors
+  - servers where we could run our software to collect and process data samples.
+  - Raspberry PI / aurdino
+
+    As good these elopements (drones) are usually expensive, we might need your help to get one for the project and on futurea we have plans to build(manufacture) our own custom drones in much cheaper price so farmers could afford it.
+
+* Future Prospects
+  We see many possibilities where drones could improve the agriculture. We could use drones(fleets of them) as:
+  - working bots (cluster of them to plant seeds)
+  - spray chemical supplements for crops
+  - transport the nursery plants from one place to another
+  - Implement AI to automate the repetitive tasks
+
+  and many more
